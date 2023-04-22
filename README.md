@@ -1,5 +1,7 @@
 # lógica, números e funções - sala 205, bloco G
 
+![paprika](https://user-images.githubusercontent.com/128937668/233802088-42a015e3-3023-4586-a88a-b8b196d52c68.gif)
+
 prova 1: 10/05
 prova 2: 28/06
 
