@@ -207,3 +207,63 @@ ABC é equilátero <-> AB = AC = BC
 **2.** a negação de x ≥ -2? x < -2.
 
 **3.**
+
+---
+
+## Conjuntos
+
+**Noções fundamentais**
+
+**Conceito**
+
+O conceito de conjunto é primitivo, uma noção primária não definida. Intuitivamente, conjunto é uma classe de "elementos bem definidos".
+
+Esses "elementos bem definidos", concretos ou abstratos, são em geral agrupados segundo critérios determinados ou propriedades exclusivas, dando origem aos conjuntos.
+
+Um conjunto está definido se for possível decidir, sem ambiguidade, se um dado elemento pertence ou não a ele.
+
+Não são considerados conjuntos (no nosso contexto) as coleções em que, para decidir se um elemento é ou não membro do conjunto, tem-se que dar interpretações subjetivas.
+
+**exemplos de conjuntos:**
+
+1. Conjunto dos alunos de uma turma.
+
+2. Conjunto das turmas do colégio.
+
+3. Conjunto dos colégios do estado do Rio de Janeiro.
+
+4. Conjunto dos estados do Brasil.
+
+5. Conjunto dos países de um continente.
+
+6. Conjunto dos continentes da Terra.
+
+7. Conjunto dos planetas do Universo.
+
+**contra exemplos**, isto é, não são conjuntos no nosso contexto:
+
+1. Conjunto dos problemas fáceis.
+
+2. Conjunto dos alunos inteligentes.
+
+3. Conjunto das flores bonitas.
+
+4.  Conjunto das cidades próximas.
+
+Observe que, em cada um desses enunciados, seria necessário dizer o que se entende por fácil, inteligente, bonito e próximo, para que se pudesse decidir se um elemento faz ou não parte da coleção em questão.
+
+Representam-se em geral os conjuntos por letras maiúsculas A, B,...,X, Y e seus elementos pelas letras minúsculas correspondentes a, b,..., x, y.
+
+**Pertinência**
+
+É um conceito primitivo, não tem definição.
+
+Para indicar que um elemento x pertence ao conjunto X usaremos a notação: x ∈ X, que se lê: "o elemento x pertence ao conjunto X".
+
+A negação da propriedade de pertinência se representa por y ∉ X, que se lê: "o elemento y não pertence ao conjunto X".
+
+**exemplos:**
+
+1. Seja H o conjunto dos seres humanos. Seja o ser humano Anna e o planeta Marte. Temos Anna ∈ H e Marte ∉ H.
+
+2. Seja C o conjunto dos números inteiros compreendidos entre 10 e 20. Temos então 17 ∈ C e 25 ∉ C.
