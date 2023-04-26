@@ -139,3 +139,71 @@ As diversas maneiras de formar uma proposição composta a partir das simples se
 
 São tabelas que reúnem todas as hipóteses possíveis quanto aos valores verdade de uma proposição.
 
+1. Considerando apenas uma proposição *p* temos apenas duas hipóteses: V ou F.
+
+p
+---|
+V
+F
+
+2. Considerando duas proposições *p* e *q* temos 4 hipóteses.
+
+p | q
+---|---|
+V | V
+V | F
+F | V
+F | F
+
+**nota**: a proposição composta será constituída por apenas um dos 2^2=4 passos possíveis.
+
+3. Considerando três proposições p, q e r, temos 8 hipóteses que são obtidas analogamente:
+
+p | q | r
+---|---|---|
+V | V | V
+V | V | F
+V | F | V
+V | F | F
+F | V | V
+F | V | F
+F | F | V
+F | F | F
+
+**nota**: basta combinar cada hipótese anterior, com V ou F da terceira, dando 2^2*2 = 2^3 = 8 casos possíveis.
+
+**generalizando**: assim, para n proposições, o número total de casos será 2^n.
+
+---
+
+**Proposições equivalentes**
+
+Duas proposições p e q são equivalentes exatamente quando têm a mesma tabela verdade, isto é, têm os mesmos valores lógicos nas mesmas situações.
+
+Usa-se a notação: p <-> q e se lê 'p se, e somente se, q' ou 'p é equivalente a q'.
+
+**exemplo**: define-se um triângulo equilátero como aquele que tem lados iguais.
+
+assim, estabelecemos a equivalência:
+
+ABC é equilátero <-> AB = AC = BC
+
+---
+
+**1.a.** 3>1 **e** 4>2; verdadeira.
+
+**b.** 3>1 **ou** 3=1; verdadeira.
+
+**c.** 2|4 **ou** 2|(4+1); verdadeira.
+
+**d.** 3(5+2) = 3 * 5 + 3 * 2 **e** 3|7; falsa.
+
+**e.** falsa.
+
+**f.** falsa.
+
+**g.** falsa.
+
+**2.** a negação de x ≥ -2? x < -2.
+
+**3.**
